@@ -1,0 +1,25 @@
+{
+    "name": "payment_api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gabriel-ao/payment_api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabriel-ao/payment_api/issues"
+    },
+    "homepage": "https://github.com/gabriel-ao/payment_api#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.9.28"
+    }
+}
